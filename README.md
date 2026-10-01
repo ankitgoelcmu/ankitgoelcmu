@@ -35,9 +35,11 @@ I care most about the gap between a good demo and a system people can trust: eva
 
 *I write about AI agents in production, security, and LLM inference, always with the code and numbers behind it.*
 
-- [Continuous Batching, Measured: Why One GPU Can Serve 64 Users](https://ankitgoelcmu.medium.com/continuous-batching-measured-why-one-gpu-can-serve-64-users-200b9e0246b6)
-- [Guardrails for AI Agents: What Actually Enforces Them](https://ankitgoelcmu.medium.com/guardrails-for-ai-agents-what-actually-enforces-them-fbf6c6f5f8cf)
-- [What Actually Breaks When You Deploy an AI Agent](https://ankitgoelcmu.medium.com/what-actually-breaks-when-you-deploy-an-ai-agent-d8f2457e2d94)
+- [What Happens When an LLM Guesses Ahead](https://ankitgoelcmu.medium.com/what-happens-when-an-llm-guesses-ahead-70514d25164d)
+- [How vLLM Stops Wasting GPU Memory](https://ankitgoelcmu.medium.com/how-vllm-stops-wasting-gpu-memory-f4d31da91bba)
+- [What Happens When 64 Users Share One GPU](https://briefs.aiadvances.org/continuous-batching-measured-why-one-gpu-can-serve-64-users-200b9e0246b6)
+- [Guardrails for AI Agents: What Actually Enforces Them](https://briefs.aiadvances.org/guardrails-for-ai-agents-what-actually-enforces-them-fbf6c6f5f8cf)
+- [What Actually Breaks When You Deploy an AI Agent](https://briefs.aiadvances.org/what-actually-breaks-when-you-deploy-an-ai-agent-d8f2457e2d94)
 - [The Detection Gap: Why AI-Powered Attacks Are Outrunning Our Defenses](https://ankitgoelcmu.medium.com/the-detection-gap-why-ai-powered-attacks-are-outrunning-our-defenses-and-how-im-closing-it-63b75e392def)
 
 ▶️ You can read all my posts on [Medium](https://medium.com/@ankitgoelcmu).
