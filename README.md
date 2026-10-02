@@ -51,6 +51,6 @@ LangChain · LangGraph · MCP · PyTorch · Hugging Face · vLLM · MLflow · La
 
 ### Let's Connect
 
-I'm currently open to Solutions Architect, Customer Engineer, and Forward Deployed Engineer roles in AI. I'm always happy to talk about agents, inference, or getting AI past the demo stage.
+I'm currently open to Solutions Architect, Technical Product Manager, Customer Engineer, and Forward Deployed Engineer roles in AI. I'm always happy to talk about agents, inference, or getting AI past the demo stage.
 
 [LinkedIn](https://www.linkedin.com/in/ankitgoe/) · [Medium](https://medium.com/@ankitgoelcmu) · ankitgoel.cmu@gmail.com
