@@ -2,7 +2,7 @@
 
 I'm Ankit, a Solutions Architect/Technical Product Manager based in San Francisco. I build AI agents, take them to production, and write about what breaks along the way.
 
-For more than ten years at Sumo Logic, I worked with enterprise customers and owned our technical partnerships with AWS, Google Cloud, and Azure. I ran POCs, designed reference architectures, and led an industry-first set of 11 Google Cloud integrations. Most recently I built AI agents for security and reliability work: a SOC triage agent on Amazon Bedrock that cut manual triage time by about 60%, and a multi-agent SRE investigation system that went into beta with enterprise customers.
+For more than ten years at Sumo Logic, I worked with enterprise customers and owned our technical partnerships with AWS, Google Cloud, and Azure. I ran POCs, designed reference architectures, and led an [industry-first set of 11 Google Cloud integrations](https://www.sumologic.com/blog/google-cloud-platform-apps). Most recently I built AI agents for security and reliability work: a SOC triage agent on Amazon Bedrock that cut manual triage time by about 60%, and a multi-agent SRE investigation system that went into beta with enterprise customers.
 
 I care most about the gap between a good demo and a system people can trust: evals, guardrails, cost per task, and the inference stack underneath. I learn by building, measuring, and writing up what I find, including the parts that didn't go as expected.
 
