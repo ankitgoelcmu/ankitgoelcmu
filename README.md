@@ -35,6 +35,7 @@ I care most about the gap between a good demo and a system people can trust: eva
 
 *I write about AI agents in production, security, and LLM inference, always with the code and numbers behind it.*
 
+- [Your AI Agent Is Only as Reliable as Its 60th Tool Call](https://medium.com/@ankitgoelcmu/your-ai-agent-is-only-as-reliable-as-its-60th-tool-call-e9cc79a73e8a)
 - [How to Read an AI Agent Trace](https://ankitgoelcmu.medium.com/how-to-read-an-ai-agent-trace-fab8e8391506)
 - [What Happens When an LLM Guesses Ahead](https://ankitgoelcmu.medium.com/what-happens-when-an-llm-guesses-ahead-70514d25164d)
 - [How vLLM Stops Wasting GPU Memory](https://ankitgoelcmu.medium.com/how-vllm-stops-wasting-gpu-memory-f4d31da91bba)
