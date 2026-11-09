@@ -27,7 +27,7 @@ I care most about the gap between a good demo and a system people can trust: eva
 - [Agent guardrails](https://github.com/ankitgoelcmu/agentic-ai/tree/main/examples/guardrails_demo): a real prompt injection fools the model and still goes nowhere, because of how the system is built
 - [CyberGuard](https://github.com/ankitgoelcmu/agentic-ai/tree/main/examples/sigma_rule_writer): a multi-agent system that turns threat intel reports into validated Sigma detection rules
 - [SOC triage on Databricks](https://github.com/ankitgoelcmu/agentic-ai/tree/main/examples/databricks_soc_triage): governed agent tools and an MLflow comparison of open-weight models, where the smallest model beat the largest
-- [Async subagents](https://github.com/ankitgoelcmu/agentic-ai/tree/main/examples/async_agent): a supervisor starts a slow flight search in the background, replies right away, and takes "make it Seattle" while the search is still running, using LangChain Deep Agents async subagents on local models
+- [Async subagents](https://github.com/ankitgoelcmu/agentic-ai/tree/main/examples/async_agent): the user changes their mind mid-task, and the agent switches course without making them wait (LangChain async subagents)
 - [vLLM inference lab](https://github.com/ankitgoelcmu/agentic-ai/tree/main/examples/vllm_inference_lab): four serving optimizations measured on one GPU. Prefix caching made the first token 9x faster for agent-style prompts
 
 **[DeepLearning](https://github.com/ankitgoelcmu/DeepLearning)**: my notebooks from learning deep learning from the ground up in PyTorch, including a GPT-2 style language model, a Vision Transformer replicated from the paper, and QLoRA fine-tuning of BERT for network threat detection.
