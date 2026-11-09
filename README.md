@@ -35,6 +35,7 @@ I care most about the gap between a good demo and a system people can trust: eva
 
 *I write about AI agents in production, security, and LLM inference, always with the code and numbers behind it.*
 
+- [Your Agent Can Talk While It Works: Testing LangChain's Async Subagents](https://medium.com/gitconnected/your-agent-can-talk-while-it-works-testing-langchains-async-subagents-474ab1c85882)
 - [Your RAG Is Only as Good as Your OCR](https://ankitgoelcmu.medium.com/your-rag-is-only-as-good-as-your-ocr-7b2100bffd9f)
 - [Why RAG Still Hallucinates, and What Advanced RAG Fixes](https://ankitgoelcmu.medium.com/why-rag-still-hallucinates-and-what-advanced-rag-fixes-fd66f40008f5)
 - [Your RAG Works in the Demo. Here's Why It Fails in Production.](https://ankitgoelcmu.medium.com/your-rag-works-in-the-demo-heres-why-it-fails-in-production-0721c7e713f3)
