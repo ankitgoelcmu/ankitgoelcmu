@@ -36,6 +36,11 @@ I care most about the gap between a good demo and a system people can trust: eva
 
 *I write about AI agents in production, security, and LLM inference, always with the code and numbers behind it.*
 
+- [Speculative Decoding, Disaggregation, and How to Pick the Right LLM Inference Optimizations](https://medium.com/gitconnected/speculative-decoding-disaggregation-and-how-to-pick-the-right-llm-inference-optimizations-081c110cd3d3)
+- [FlashAttention, Prefix Caching and Continuous Batching: How LLM Servers Keep the GPU Busy](https://medium.com/gitconnected/flashattention-prefix-caching-and-continuous-batching-how-llm-servers-keep-the-gpu-busy-3855fc1784f6)
+- [Why LLM Inference Is Slow: Prefill, Decode and the KV Cache](https://medium.com/gitconnected/why-llm-inference-is-slow-prefill-decode-and-the-kv-cache-401c9fb743bb)
+- [Agent Memory: What to Keep, Where to Keep It, and When to Read It](https://medium.com/gitconnected/agent-memory-what-to-keep-where-to-keep-it-and-when-to-read-it-1cdfecb455be)
+- [How to Evaluate AI Agents: A Practical Guide](https://medium.com/gitconnected/how-to-evaluate-ai-agents-a-practical-guide-8d5d6378d6de)
 - [Your Agent Can Talk While It Works: Testing LangChain's Async Subagents](https://medium.com/gitconnected/your-agent-can-talk-while-it-works-testing-langchains-async-subagents-474ab1c85882)
 - [Your RAG Is Only as Good as Your OCR](https://ankitgoelcmu.medium.com/your-rag-is-only-as-good-as-your-ocr-7b2100bffd9f)
 - [Why RAG Still Hallucinates, and What Advanced RAG Fixes](https://ankitgoelcmu.medium.com/why-rag-still-hallucinates-and-what-advanced-rag-fixes-fd66f40008f5)
